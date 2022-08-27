@@ -1,14 +1,14 @@
 Hi 👋 My name is Ömer Demirsoy
 ==============================
 
-Junior Movil App Developer
+Junior Mobile App Developer
 --------------------------
 
 I have been learning programming for 1 years.
 
 * 🌍  I'm based in Türkiye
 * 🧠  I'm learning Flutter, Pyhton
-* 🤝  I'm open to collaborating on Mobil App
+* 🤝  I'm open to collaborating on Mobile App
 * ⚡  I like motor tours and shows.
 
 <a href="https://www.twitter.com/Omer_Frk_Dmrsy" target="_blank" rel="noreferrer"><img
