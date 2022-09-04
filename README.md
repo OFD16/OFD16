@@ -7,7 +7,7 @@ Junior Mobile App Developer
 I have been learning programming for 1 years.
 
 * 🌍  I'm based in Türkiye
-* 🧠  I'm learning Flutter, Pyhton
+* 🧠  I'm learning Dart, Java,Pyhton
 * 🤝  I'm open to collaborating on Mobile App
 * ⚡  I like motor tours and shows.
 
