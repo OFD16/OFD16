@@ -7,7 +7,7 @@ Junior Mobile App Developer
 I have been learning programming for 2 years.
 
 * 🌍  I'm based in Türkiye
-* 🧠  I'm learning Dart, Javascript,
+* 🧠  I'm learning Dart (Flutter), Javascript(Node.js, Next.js, React , React Native),
 * 🤝  I'm open to collaborating on Mobile App and Web apps.
 * ⚡  I like motor tours and shows.
 
