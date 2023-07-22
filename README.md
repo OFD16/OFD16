@@ -4,11 +4,11 @@ Hi 👋 My name is Ömer Demirsoy
 Junior Mobile App Developer
 --------------------------
 
-I have been learning programming for 1 years.
+I have been learning programming for 2 years.
 
 * 🌍  I'm based in Türkiye
-* 🧠  I'm learning Dart, Java,Pyhton
-* 🤝  I'm open to collaborating on Mobile App
+* 🧠  I'm learning Dart, Javascript,
+* 🤝  I'm open to collaborating on Mobile App and Web apps.
 * ⚡  I like motor tours and shows.
 
 <a href="https://www.twitter.com/Omer_Frk_Dmrsy" target="_blank" rel="noreferrer"><img
