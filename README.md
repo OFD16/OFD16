@@ -1,4 +1,4 @@
-Hi 👋 My name is Ömer Demirsoy
+Hi 👋 My name is Ömer Faruk Demirsoy
 ==============================
 
 Junior Mobile App Developer
